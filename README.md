@@ -1,4 +1,4 @@
-# CHALLENGE SPRINTS
+# CHALLENGE SPRINTS - IA & IoT
 
 # Solution NET
 
@@ -10,14 +10,16 @@
  <a href="#autor">Autores</a>
 </p>
 
-<h4 align="center"> 
+<h3 align="center"> 
 	🚧 Em andamento. 🚧
-</h4>
+</h3>
 
 ### Features
 
 - [x] Detecção de buracos na imagem
 - [x] Upload de imagem do usuário
+- [ ] ESP32-CAM + GPS
+- [ ] População automatizada da base de dados
 
 <h4>Pequeno protótipo do projeto utilizando a ferramenta FIGMA</h4>
 <h1 align="center">
